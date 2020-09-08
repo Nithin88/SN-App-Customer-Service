@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Customer TIcket)">2d4a23fedb03101092ddcd3f29961926</button>
+        <item_parameter display_value="Customer TIcket location">614aefbedb03101092ddcd3f29961951</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>nithin</sys_created_by>
+        <sys_created_on>2020-09-08 16:24:49</sys_created_on>
+        <sys_id>614a23fedb03101092ddcd3f29961930</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>614aefbedb03101092ddcd3f29961951</sys_name>
+        <sys_package display_value="App - Customer Service" source="x_171481_app_csm">e6e8e33adb03101092ddcd3f299619c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App - Customer Service">e6e8e33adb03101092ddcd3f299619c0</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_614a23fedb03101092ddcd3f29961930</sys_update_name>
+        <sys_updated_by>nithin</sys_updated_by>
+        <sys_updated_on>2020-09-08 16:24:49</sys_updated_on>
+        <ui_parameter display_value="Location">2d4a23fedb03101092ddcd3f2996192b</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

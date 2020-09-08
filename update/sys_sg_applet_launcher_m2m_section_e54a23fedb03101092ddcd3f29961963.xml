@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="App - Customer Service">994aefbedb03101092ddcd3f2996192e</applet_launcher>
+        <order/>
+        <section display_value="Customer TIcket">e14a23fedb03101092ddcd3f29961962</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>nithin</sys_created_by>
+        <sys_created_on>2020-09-08 16:24:50</sys_created_on>
+        <sys_id>e54a23fedb03101092ddcd3f29961963</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="App - Customer Service" source="x_171481_app_csm">e6e8e33adb03101092ddcd3f299619c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App - Customer Service">e6e8e33adb03101092ddcd3f299619c0</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_e54a23fedb03101092ddcd3f29961963</sys_update_name>
+        <sys_updated_by>nithin</sys_updated_by>
+        <sys_updated_on>2020-09-08 16:24:50</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

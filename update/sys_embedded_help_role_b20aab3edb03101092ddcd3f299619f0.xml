@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="app___customer_service" name="app___customer_service">ae0aab3edb03101092ddcd3f299619eb</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>nithin</sys_created_by>
+        <sys_created_on>2020-09-08 16:23:48</sys_created_on>
+        <sys_id>b20aab3edb03101092ddcd3f299619f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ae0aab3edb03101092ddcd3f299619eb</sys_name>
+        <sys_package display_value="App - Customer Service" source="x_171481_app_csm">e6e8e33adb03101092ddcd3f299619c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App - Customer Service">e6e8e33adb03101092ddcd3f299619c0</sys_scope>
+        <sys_update_name>sys_embedded_help_role_b20aab3edb03101092ddcd3f299619f0</sys_update_name>
+        <sys_updated_by>nithin</sys_updated_by>
+        <sys_updated_on>2020-09-08 16:23:48</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

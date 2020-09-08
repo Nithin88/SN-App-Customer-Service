@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Clone of Customer Service product for research and practice</description>
+        <device_type>browser</device_type>
+        <hint>Clone of Customer Service product for research and practice</hint>
+        <name/>
+        <order/>
+        <roles>x_171481_app_csm.app_admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>nithin</sys_created_by>
+        <sys_created_on>2020-09-08 16:25:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0b6aeb3edb03101092ddcd3f299619c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>App - Customer Service</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="App - Customer Service" source="x_171481_app_csm">e6e8e33adb03101092ddcd3f299619c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App - Customer Service">e6e8e33adb03101092ddcd3f299619c0</sys_scope>
+        <sys_update_name>sys_app_application_0b6aeb3edb03101092ddcd3f299619c0</sys_update_name>
+        <sys_updated_by>nithin</sys_updated_by>
+        <sys_updated_on>2020-09-08 16:25:28</sys_updated_on>
+        <title>App - Customer Service</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

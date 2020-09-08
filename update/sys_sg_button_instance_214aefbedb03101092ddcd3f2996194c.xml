@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Delete Swipe (Customer TIcket)">ad4aefbedb03101092ddcd3f29961949</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>leading_swipe</location>
+        <name>Delete (Customer TIcket)</name>
+        <order/>
+        <parent>2d4aefbedb03101092ddcd3f29961939</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>nithin</sys_created_by>
+        <sys_created_on>2020-09-08 16:24:49</sys_created_on>
+        <sys_id>214aefbedb03101092ddcd3f2996194c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (Customer TIcket)</sys_name>
+        <sys_package display_value="App - Customer Service" source="x_171481_app_csm">e6e8e33adb03101092ddcd3f299619c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App - Customer Service">e6e8e33adb03101092ddcd3f299619c0</sys_scope>
+        <sys_update_name>sys_sg_button_instance_214aefbedb03101092ddcd3f2996194c</sys_update_name>
+        <sys_updated_by>nithin</sys_updated_by>
+        <sys_updated_on>2020-09-08 16:24:49</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=214aefbedb03101092ddcd3f2996194c"/>
+</record_update>
